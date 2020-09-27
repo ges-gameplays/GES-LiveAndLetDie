@@ -4,7 +4,7 @@ A repository for an unofficial update of the GoldenEye: Source gameplay "Live an
 
 ---
 
-Installation Instructions
+**Installation Instructions**
 
 • Navigate to Program Files\Steam\SteamApps\SourceMods\gesource
 
